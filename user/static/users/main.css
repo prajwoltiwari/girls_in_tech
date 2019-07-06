@@ -126,3 +126,14 @@ body {
   .padding-bottom{
     padding-bottom: 70px;
   }
+
+
+  height:700px;
+  width: 100%;
+  background-image: url('../pics/university.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
